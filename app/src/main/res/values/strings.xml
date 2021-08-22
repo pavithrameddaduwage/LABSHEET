@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Labsheet</string>
+    <string name="stop">stop</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="button3">stop</string>
+    <string name="button2">pause</string>
+    <string name="button">play</string>
 </resources>
